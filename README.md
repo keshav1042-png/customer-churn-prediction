@@ -3,7 +3,7 @@ An end-to-end machine learning project for predicting telecom customer churn usi
 
 Project Overview:
 Predict customer churn using machine learning techniques and identify customers at risk of leaving telecom services.
-Features:
+|| Features:
 1)Data preprocessing and cleaning
 2)Exploratory Data Analysis (EDA)
 3)Feature engineering
